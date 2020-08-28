@@ -20,6 +20,7 @@ The package [access_points](https://github.com/kootenpv/access_points) was creat
 
     git clone https://github.com/ramonfontes/whereami
     cd whereami && sudo python setup.py install
+    
     git clone https://github.com/ramonfontes/access_points
     cd access_points && sudo python setup.py install
 
